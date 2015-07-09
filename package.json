@@ -1,0 +1,17 @@
+{
+  "name": "stylus-template",
+  "version": "1.0.0",
+  "description": "Stylus template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vladimir.kraykovsky@neklo.com",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": ">=2.7.12",
+    "gulp": ">=3.9.0",
+    "jeet": ">=6.1.2",
+    "nib": ">=1.1.0"
+  }
+}
